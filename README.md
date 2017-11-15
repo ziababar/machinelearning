@@ -54,6 +54,7 @@ Dimensionality Reduction
 
 
 
+https://pbs.twimg.com/media/DOnIsmCWAAA1baA.jpg
 
 Matrix Factorization/SVD
 LDA
