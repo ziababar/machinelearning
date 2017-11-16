@@ -1,23 +1,30 @@
 <h1>Machine Learning Algorithms</h1>
 
 <h2>Classification</h2>
- - Naive Bayes
- - Logistic Regression
-    - classifying data in two categories
-    - finding the best way to split a dataset
- - Softmax Regression
-    - Classifying data into multiple categories
- - Neural Network
- - Support Vector Machine
- - Decision Trees
- - Random Forests
- - Gradient Boosting Machines
+ * Naive Bayes
+    * What it does?
+    * Where to use it (use-cases)?
+    * Advantages over:
+    * Disadvantages over:
+    * Related algorithms:
+ * Logistic Regression
+    * classifying data in two categories
+    * finding the best way to split a dataset
+ * Softmax Regression
+    * Classifying data into multiple categories
+ * Neural Network
+ * Support Vector Machine
+ * Decision Trees
+ * Random Forests
+ * Gradient Boosting Machines
 
 <h2>Regression</h2>
- - Linear Regression
-    - predicting trends
-    - fitting a curve to data points
-    - describing relationships between variables
+ * Linear Regression
+    * What it does?
+    * Where to use it?
+       * predicting trends
+       * fitting a curve to data points
+       * describing relationships between variables
 
 <h2>Clustering</h2>
  - K-Means
