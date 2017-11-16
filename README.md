@@ -1,5 +1,4 @@
-# machinelearning
-Machine Learning algorithms implementation
+<h1>Machine Learning Algorithms</h1>
 
 Classification
  - Naive Bayes
@@ -53,8 +52,7 @@ Dimensionality Reduction
     - learning latent variables responsible for high-dimensional data
 
 
-
-https://pbs.twimg.com/media/DOnIsmCWAAA1baA.jpg
+![Top Machine Learning Algorithms](https://pbs.twimg.com/media/DOnIsmCWAAA1baA.jpg)
 
 Matrix Factorization/SVD
 LDA
