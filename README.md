@@ -7,13 +7,18 @@
     * Advantages over:
     * Disadvantages over:
     * Related algorithms:
+	
  * Logistic Regression
     * classifying data in two categories
     * finding the best way to split a dataset
+	
  * Softmax Regression
     * Classifying data into multiple categories
+	
  * Neural Network
+ 
  * Support Vector Machine
+ 
  * Decision Trees
  * Random Forests
  * Gradient Boosting Machines
