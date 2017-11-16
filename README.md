@@ -1,6 +1,6 @@
 <h1>Machine Learning Algorithms</h1>
 
-Classification
+<h2>Classification</h2>
  - Naive Bayes
  - Logistic Regression
     - classifying data in two categories
@@ -13,21 +13,20 @@ Classification
  - Random Forests
  - Gradient Boosting Machines
 
-Regression
+<h2>Regression</h2>
  - Linear Regression
     - predicting trends
     - fitting a curve to data points
     - describing relationships between variables
 
-Clustering
+<h2>Clustering</h2>
  - K-Means
     - clustering data into a fixed number of categories
     - automatically partitioning data points into separate classes
  - Other clustering algorithms besides k-means
 
-Dimensionality Reduction
+<h2>Dimensionality Reduction</h2>
  - Principal Component Analysis
-
 
  - Hidden Markov Model (Viterbi)
     - revealing hidden causes of observations
