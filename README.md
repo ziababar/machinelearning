@@ -1,6 +1,7 @@
 <h1>Machine Learning Algorithms</h1>
 
 <h2>Classification</h2>
+
  * Naive Bayes
     * What it does?
     * Where to use it (use-cases)?
