@@ -2,16 +2,16 @@
 
 <h2>Classification</h2>
 
- * Naive Bayes
-    * What it does?
-    * Where to use it (use-cases)?
-    * Advantages over:
-    * Disadvantages over:
-    * Related algorithms:
+ - Naive Bayes
+    - What it does?
+    - Where to use it (use-cases)?
+    - Advantages over:
+    - Disadvantages over:
+    - Related algorithms:
 	
- * Logistic Regression
-    * classifying data in two categories
-    * finding the best way to split a dataset
+ - Logistic Regression
+    - classifying data in two categories
+    - finding the best way to split a dataset
 	
  * Softmax Regression
     * Classifying data into multiple categories

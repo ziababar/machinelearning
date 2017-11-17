@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/.idea/misc.xml" />
+    <file url="file://$PROJECT_DIR$/.idea/modules.xml" />
+    <file url="file://$PROJECT_DIR$/.idea/vcs.xml" />
+  </component>
   <component name="ProjectRootManager">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
