@@ -19,7 +19,8 @@
  * Neural Network
  
  * Support Vector Machine
- 
+    * supervised machine learning
+    
  * Decision Trees
  * Random Forests
  * Gradient Boosting Machines
