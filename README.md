@@ -66,6 +66,7 @@
 
 
 ![Top Machine Learning Algorithms](https://pbs.twimg.com/media/DOnIsmCWAAA1baA.jpg)
+![Machine Learning Use-Cases](http://image-store.slidesharecdn.com/3d7a1156-5e2e-408f-bebc-f8321f262e88-original.jpeg)
 
 Matrix Factorization/SVD
 LDA
