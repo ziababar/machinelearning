@@ -51,3 +51,11 @@ model.add(Dropout(.2))
 
 model.add(Flatten())
 model.add(Dense(1, activation='sigmoid'))
+
+
+# bi-directional rnns come in.
+# automatically flip and the necessary inputs and outputs and simulateously calculate a bi-directional RNN for us.
+from keras.layers.wrappers import Bidirectional
+
+model.add(Bidirectional(SimpleRNN(num_neurons, return_sequences=True, input_shape=(maxlen, embedding_dims))))
+
